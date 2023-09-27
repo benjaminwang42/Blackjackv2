@@ -1,0 +1,39 @@
+/*body {
+    background-color:#f5f5f5;
+} */
+body {
+    text-align: center;
+    background-image: url("PokerBackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#dealercards img {
+    height: 175px;
+    width: 125px;
+    margin: 1px;
+}
+
+#playercards img {
+    height: 175px;
+    width: 125px;
+    margin: 1px;
+}
+
+#hit {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
+
+#stay {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
+
+.test {
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(160, 160, 160, 0.7);
+}
