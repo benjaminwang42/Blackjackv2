@@ -156,3 +156,11 @@ function reduceAce(playerSum, playerAceCount){
     }
     return playerSum; 
 }
+
+// function playAgain(){
+//     document.getElementById("playercards").innerHTML = '';
+//     document.getElementById("dealercards").innerHTML = '';
+//     buildDeck();
+//     shuffle(deck);
+//     startGame();
+// }
